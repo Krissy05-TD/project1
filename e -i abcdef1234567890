@@ -1,0 +1,17 @@
+[33mcommit 4148fb67157dc0c33b8669d87f1ae1bc9c43d88c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: krisdavids2005 <krisdavids2005@gmail.com>
+Date:   Sun Apr 20 10:56:45 2025 +0000
+
+    app-first
+
+[33mcommit 778060604c8cd9769cb7246e2c09a22b1067b83f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Appwrite <team@appwrite.io>
+Date:   Sun Apr 20 08:51:38 2025 +0000
+
+    Create 'sendSmsOtp' function
+
+[33mcommit c7110a111510fd16c59f25c2ee78f0b1a2cb0527[m
+Author: krisdavids2005 <krisdavids2005@gmail.com>
+Date:   Sun Apr 20 07:57:47 2025 +0000
+
+    first commit
